@@ -1,12 +1,7 @@
 # Healthcare-Dashboard-React---Static-Display-
 
 **Web Developer Assessment Submission**  
-
-![Dashboard Preview](./screenshot.png)  
-*Reference Design: [Original Design Image](https://i.ibb.co/B2DdGkgF/Screenshot-2025-05-23-at-3-31-31-PM.png)*  
-
----
-
+  
 ## 📝 Assessment Overview  
 A **pixel-perfect** recreation of a healthcare dashboard UI using React.js, demonstrating:  
 - Component-based architecture  
@@ -33,5 +28,6 @@ A **pixel-perfect** recreation of a healthcare dashboard UI using React.js, demo
 
 ---
 
-
+## Live on vercel
+https://healthcare-dashboard-react-static-d-roan.vercel.app/
 
